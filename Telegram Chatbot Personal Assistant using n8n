@@ -1,0 +1,5 @@
+Telegram Chatbot Personal Assistant using n8n Developed an automated personal assistant integrated with Telegram 
+leveraging n8n workflow automation to streamline daily tasks 
+The bot interacts with multiple services including Gmail, Google Calendar, and To-Do lists,
+enabling users to Send and receive emails directly from Telegram Schedule, view, and manage calendar events Create, update, and track tasks in To-Do lists Receive reminders and notifications through the chatbot
+This project demonstrates automation, productivity enhancement, and cross-platform integration, providing a seamless experience to manage personal and professional tasks via a single chat interface
